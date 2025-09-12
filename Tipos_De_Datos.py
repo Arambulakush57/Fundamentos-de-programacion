@@ -1,0 +1,9 @@
+entero = 10
+flotante = 3.56	
+cadena = "Christo Arambula"
+booleana = True
+
+print(entero)
+print(flotante)
+print(cadena)
+print(booleana)
